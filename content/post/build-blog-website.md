@@ -36,3 +36,8 @@ hugo new post/build-blog-website.md
 ### 6. 本地调试
 
 hugo server -D
+
+### 7. 相关参考
++ [Hugo](https://gohugo.io/getting-started/quick-start/)  
++ [hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even)  
++ [Hugo + even + GitHub Pages+ Utterances搭建个人博客](https://blog.csdn.net/perfumekristy/article/details/122070579)
