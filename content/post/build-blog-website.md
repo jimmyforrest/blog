@@ -3,6 +3,9 @@ title: "Hugo+Even搭建个人博客"
 date: 2022-04-12T21:55:35+08:00
 draft: true
 ---
+
+{{% music "569214250" %}}
+
 ### 1. 安装hugo
 
 brew install hugo
