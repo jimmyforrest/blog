@@ -183,7 +183,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 
   [params.social]                                         # 社交链接
     a-email = "mailto:strubert@qq.com"
-    g-github = "https://github.com"
+    g-github = "https://github.com/jimmyforrest"
     i-zhihu = "https://zhihu.com"
     o-bilibili = "https://bilibili.com"
 
